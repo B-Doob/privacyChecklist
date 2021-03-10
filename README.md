@@ -31,6 +31,18 @@
 ## Trademe New Zealand auction website
 
 - The website https://www.trademe.co.nz/ main purpose is to provide individuals or companies with the ability to buy, sell, auction, swap and trade multiple types of item's or content over the internet either nationally or internationally. The data being collected would be Personal information such as age, physical address, email address and name ( for use of verifying ones identity). The website would also collect payment information using third party software.
-- 
-- 
+
+
+- [Trademe Privacy Statement.docx](https://github.com/B-Doob/privacyChecklist/files/6118879/Trademe.Privacy.Statement.docx)
+
+
+- This policy explains:
+- What information will be collected
+- How it will be collected
+- Explaining why it will be collected and its purpose
+- That all information collected of an individual will be accessable to view and change by that individual
+- Explains that the company will not keep the indentifiable information after the account has been deleted
+- Explains that a a unique identifier will be created by the user classing it as a username and that this name will be visable to all who use trademe.
+- This statement advises that their payment information will be shared with a third party in order to complete transactions.
+
 
