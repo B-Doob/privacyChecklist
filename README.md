@@ -24,3 +24,13 @@
 
 - [x] After an account has been created for an idividual to use the software they will be assigned a unique identifier (account #), this will enable them partipciate in what the software has available with online discussions.
 - [x] This unique identifier will be needed as it is likley that multiple individuals will share the same name
+
+
+# Privacy Policy
+
+## Trademe New Zealand auction website
+
+- The website https://www.trademe.co.nz/ main purpose is to provide individuals or companies with the ability to buy, sell, auction, swap and trade multiple types of item's or content over the internet either nationally or internationally. The data being collected would be Personal information such as age, physical address, email address and name ( for use of verifying ones identity). The website would also collect payment information using third party software.
+- 
+- 
+
